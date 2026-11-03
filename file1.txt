@@ -1,1 +1,3 @@
-﻿Ubah file 1
+﻿Ubah file 1 dari local (Baris dari GitHub diedit di lokal)
+
+Baris baru tambahan dari branch myBranch1
